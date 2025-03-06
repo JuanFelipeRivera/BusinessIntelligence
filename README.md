@@ -1,4 +1,4 @@
-# BusinessIntelligence
+# Syllabus / Business Intelligence
 Course Content for Business Intelligence (1 image)
 <img src="Course_Program_Business_Intelligence.jpg" alt="Course Program for Business Intelligence" width="600" />
 
